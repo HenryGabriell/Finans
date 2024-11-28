@@ -1,0 +1,26 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 2px solid #efefef;
+}
+
+
+footer p a{
+	margin: 5px 15px;
+}
+
+.btn-outline-dark{
+	margin: 0px 20px ;
+}
+
+.col-md-8{
+	margin-top: 4px;
+}
+
+#ftmlr img{
+	margin-left: 100px;
+}
