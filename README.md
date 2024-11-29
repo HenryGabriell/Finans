@@ -2,7 +2,7 @@
 
 Projeto feito em bootstrap. Responsivo.
 <br>
-Da uma olhada:
+Da uma olhada: https://henrygabriell.github.io/Finans/
 <hr>
 <img width="596" src="https://github.com/user-attachments/assets/ff4aa260-7f39-4689-a980-069afb6527d8">
 <br>
